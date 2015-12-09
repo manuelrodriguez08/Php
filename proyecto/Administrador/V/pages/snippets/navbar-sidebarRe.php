@@ -13,7 +13,11 @@
                         <li>
                             <a href="formsReserva.php"><i class="fa fa-edit fa-fw"></i> Realizar Reserva </a>
                         </li>
-                       
+                        <li>
+                            <a href="formsLlama.php"> <i class="fa fa-tty "></i>   Llamadas <span class="fa arrow"></span></a>
+                            
+                            <!-- /.nav-second-level -->
+                        </li>
                          <li>
                             <a href="../../C/usuarios_controller.php?action=CerrarSession"> Cerrar Sesión </a>
                         </li>

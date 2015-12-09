@@ -19,10 +19,12 @@
                        
                         
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Reportes <span class="fa arrow"></span></a>
+                            <a href="Informes.php"><i class="fa fa-bar-chart-o fa-fw"></i> Reportes <span class="fa arrow"></span></a>
                             
                             <!-- /.nav-second-level -->
                         </li>
+
+                       
                            <li>
                             <a href=""> Cerrar Sesión </a>
                         </li>
